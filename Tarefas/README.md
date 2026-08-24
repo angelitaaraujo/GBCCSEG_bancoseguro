@@ -4,6 +4,7 @@ _Aqui incluímos as tarefas atribuídas ao longo do semestre e contextualizamos 
 **Tarefas Atribuídas**
 - [Cenário](cenario.md)
 - [Portfolio](portfolio.md)
+- [Busca de CVEs](busca_cves.md)
 
 ## 1. O Cenário
 ### Introdução — Por que tudo começa pelo cenário?
@@ -32,3 +33,6 @@ O segundo passo é a criação do portfolio. ele contém a estrutur do seu proje
 Ao longo do semestre, você não vai entregar atividades soltas: vai **construir um projeto completo de segurança**, peça por peça — do cenário ao relatório final. Não é um processo único, é uma construção e você poderá voltar aos arquivos que você já editou para aplicar melhorias. É no **GitHub** que essa construção ganha vida, organizada e versionada.
 
 O portfólio é a sua **trilha de evolução**: a cada aula, um novo arquivo entra no repositório, um novo commit registra seu progresso. No fim do semestre, você terá um repositório completo que mostra, na prática, como um sistema se torna seguro — e tudo que você aprendeu no caminho.
+
+## 3. Busca de CVEs
+Depois de conhecer as **fraquezas comuns de software** (CWE) e o **OWASP Top 10** — as categorias de falhas que tornam sistemas vulneráveis — e de estudar como essas fraquezas se materializam em produtos reais (**CVEs**), chegou a hora de se apronfundar nos  identificadores públicos que registram vulnerabilidades específicas descobertas em produtos e serviços do mundo real. Nesta tarefa, você vai fazer a ponte entre a teoria e o seu projeto, **buscando no NVD vulnerabilidades reais que poderiam afetar o cenário que você escolheu**. 
