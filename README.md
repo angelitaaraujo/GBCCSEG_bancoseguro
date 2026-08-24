@@ -70,3 +70,6 @@ O cenário não é fictício em seus riscos: o setor financeiro brasileiro é al
 | 07 | plano-devsecops | DevSecOps (desenvolvimento + operações) |
 | 08 | plano-resposta-incidentes | Resposta a incidentes |
 | 09 | relatorio-final | Relatório consolidado |
+
+## Tarefas
+A lista de tarefas atribuídas está disponível na pasta [Tarefas](Tarefas)
