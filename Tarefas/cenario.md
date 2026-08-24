@@ -39,7 +39,7 @@ Para uma categoria (escolha a mais crítica para o seu cenário), responda:
 
 "Se esse ativo falhar ou for comprometido, o sistema consegue funcionar?"
 
-Exemplo: "Se o banco de dados de pedidos for perdido, o aplicativo não consegue mostrar o cardápio nem registrar novos pedidos — o negócio para."
+**Exemplo:** "Se o banco de dados de pedidos for perdido, o aplicativo não consegue mostrar o cardápio nem registrar novos pedidos — o negócio para."
 
 ## Entrega esperada
 | Item |	Formato |
