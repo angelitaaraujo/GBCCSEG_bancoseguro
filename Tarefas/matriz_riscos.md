@@ -8,11 +8,9 @@ Escala qualitativa de **Probabilidade** (frequência esperada de ocorrência) e 
 
 | Escala | Probabilidade | Impacto |
 |---|---|---|
-| 1 | Rara | Insignificante |
-| 2 | Improvável | Menor |
-| 3 | Possível | Moderado |
-| 4 | Provável | Maior |
-| 5 | Quase certa | Catastrófico |
+| 1 | Baixo | Baixo |
+| 2 | Médio | Médio |
+| 3 | Alto | Alto |
 
 **Nível de risco = Probabilidade × Impacto** (matriz 5x5):
 
