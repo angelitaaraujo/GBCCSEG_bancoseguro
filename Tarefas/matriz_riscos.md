@@ -35,6 +35,6 @@ Escala qualitativa de **Probabilidade** (frequência esperada de ocorrência) e 
 | Tampering / Information Disclosure | CVE-2025-1094 — SQL injection no PostgreSQL (libpq) ||  |  |  | 
 | Denial of Service | Indisponibilidade da plataforma/PIX — proteção anti-DDoS insuficiente |  |  |  | 
 | Spoofing (supply chain) | CVE-2024-3094 — backdoor xz/liblzma no SSH (cadeia de suprimentos) |  |  |  | 
-| Spoofing | CVE-2025-23419 — bypass de mTLS no nginx (retomada de sessão) | Possível (3) |  |  |  | 
+| Spoofing | CVE-2025-23419 — bypass de mTLS no nginx (retomada de sessão) |  |  |  |  | 
 | Repudiation | Comprometimento de logs/auditoria — trilha alterável (sem CVE específica) |  |  |  | 
 | Elevation of Privilege | CVE-2024-21626 — escape de container no runc (fd leak) |  |  |  | 
