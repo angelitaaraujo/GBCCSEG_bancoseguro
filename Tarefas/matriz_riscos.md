@@ -12,7 +12,7 @@ Escala qualitativa de **Probabilidade** (frequência esperada de ocorrência) e 
 | 2 | Médio | Médio |
 | 3 | Alto | Alto |
 
-**Nível de risco = Probabilidade × Impacto** (matriz 5x5):
+**Nível de risco = Probabilidade × Impacto**:
 
 | Faixa | Nível |
 |---|---|
@@ -27,12 +27,12 @@ Escala qualitativa de **Probabilidade** (frequência esperada de ocorrência) e 
 
 | Ameaça (STRIDE) | Vulnerabilidade | Probabilidade | Impacto | Nível de risco | Tratamento |
 |---|---|---|---|---|---|
-| Elevation of Privilege / Tampering | CVE-2021-44228 (Log4Shell) — RCE remoto nas APIs Java e core bancário |  |  |  | 
-| Elevation of Privilege | CVE-2024-6387 (regreSSHion) — RCE remoto no OpenSSH admin |  |  |  | 
-| Information Disclosure | Vazamento de dados pessoais (LGPD) — criptografia/controle de acesso insuficientes |  |  |  | 
-| Tampering / Information Disclosure | CVE-2025-1094 — SQL injection no PostgreSQL (libpq) ||  |  |  | 
-| Denial of Service | Indisponibilidade da plataforma/PIX — proteção anti-DDoS insuficiente |  |  |  | 
-| Spoofing (supply chain) | CVE-2024-3094 — backdoor xz/liblzma no SSH (cadeia de suprimentos) |  |  |  | 
-| Spoofing | CVE-2025-23419 — bypass de mTLS no nginx (retomada de sessão) |  |  |  |  | 
-| Repudiation | Comprometimento de logs/auditoria — trilha alterável (sem CVE específica) |  |  |  | 
-| Elevation of Privilege | CVE-2024-21626 — escape de container no runc (fd leak) |  |  |  | 
+| Elevation of Privilege / Tampering | CVE-2021-44228 (Log4Shell) — RCE remoto nas APIs Java e core bancário | Alto (3) | Alto (3) |  |  |
+| Elevation of Privilege | CVE-2024-6387 (regreSSHion) — RCE remoto no OpenSSH admin | Médio (2) | Alto (3) |  |  |
+| Information Disclosure | Vazamento de dados pessoais (LGPD) — criptografia/controle de acesso insuficientes |  |  |
+| Tampering / Information Disclosure | CVE-2025-1094 — SQL injection no PostgreSQL (libpq) | Médio (2) | Alto (3) |  |  |
+| Denial of Service | Indisponibilidade da plataforma/PIX — proteção anti-DDoS insuficiente | Médio (2) | Alto (3) |  |  |
+| Spoofing (supply chain) | CVE-2024-3094 — backdoor xz/liblzma no SSH (cadeia de suprimentos) | Baixo (1) | Alto (3) |  |  |
+| Spoofing | CVE-2025-23419 — bypass de mTLS no nginx (retomada de sessão) | Médio (2) | Médio (2) |  |  |
+| Repudiation | Comprometimento de logs/auditoria — trilha alterável (sem CVE específica) | Médio (2) |  |  |
+| Elevation of Privilege | CVE-2024-21626 — escape de container no runc (fd leak) | Baixo (1) | Alto (3) |  |  |
