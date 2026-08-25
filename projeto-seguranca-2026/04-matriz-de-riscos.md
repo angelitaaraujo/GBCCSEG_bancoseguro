@@ -14,6 +14,19 @@ Escala qualitativa de **Probabilidade** (frequência esperada de ocorrência) e 
 
 **Nível de risco = Probabilidade × Impacto**:
 
+Lembre-se que, utilizando uma matriz 3x3, o maior valor de nível será 9, neste caso o nível de risco será
+
+| Faixa | Nível |
+| --- | --- |
+|  1  | Baixo |
+|2 e 3| Médio |
+|4 e 6| Alto  |
+|  9  | Crítico |
+
+> Atenção, sugestão usar este modelo no seu projeto, preenchendo a planilha disponível em [AQUI](https://ifcedubr-my.sharepoint.com/:x:/g/personal/angelita_araujo_ifc_edu_br/IQAR2iUfihiDR7spR15Jc8R0ASEwju2n8VKmE8XeBxT2zZ4)
+
+Se você usar uma matriz 5 x 5, dependendo do seu nível de maturidade, pode usar a seguinte tabela
+
 | Faixa | Nível |
 |---|---|
 | 1–4 | Baixo |
@@ -22,4 +35,6 @@ Escala qualitativa de **Probabilidade** (frequência esperada de ocorrência) e 
 | 15–25 | Crítico |
 
 **Tratamento (ISO 27005):** Mitigar (aplicar controles), Transferir (compartilhar o risco — seguro/terceiros), Aceitar (risco residual assumido) ou Evitar (eliminar o processo).
+
+
 
