@@ -19,7 +19,7 @@ Lembre-se que, utilizando uma matriz 3x3, o maior valor de nível será 9, neste
 | Faixa | Nível |
 | --- | --- |
 |  1  | Baixo |
-|2 e 3| Médio |
+|2 | Médio |
 |4 e 6| Alto  |
 |  9  | Crítico |
 
