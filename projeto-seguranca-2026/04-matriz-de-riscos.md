@@ -20,8 +20,8 @@ Lembre-se que, utilizando uma matriz 3x3, o maior valor de nível será 9, neste
 | --- | --- |
 |  1  | Baixo |
 |2 | Médio |
-|4 e 6| Alto  |
-|  9  | Crítico |
+|3 - 4| Alto  |
+| 6 e 9  | Crítico |
 
 > Atenção, sugestão usar este modelo no seu projeto, preenchendo a planilha disponível em [AQUI](https://ifcedubr-my.sharepoint.com/:x:/g/personal/angelita_araujo_ifc_edu_br/IQAR2iUfihiDR7spR15Jc8R0ASEwju2n8VKmE8XeBxT2zZ4)
 
