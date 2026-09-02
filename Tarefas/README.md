@@ -5,6 +5,8 @@ _Aqui incluímos as tarefas atribuídas ao longo do semestre e contextualizamos 
 - [Cenário](cenario.md)
 - [Portfolio](portfolio.md)
 - [Busca de CVEs](busca_cves.md)
+- [Plano DevSecOps](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/plano_devecops.md)
+- [Matriz de Riscos](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/matrizderiscos_projeto.md)
 
 ## 1. O Cenário
 ### Introdução — Por que tudo começa pelo cenário?
@@ -36,3 +38,11 @@ O portfólio é a sua **trilha de evolução**: a cada aula, um novo arquivo ent
 
 ## 3. Busca de CVEs
 Depois de conhecer as **fraquezas comuns de software** (CWE) e o **OWASP Top 10** — as categorias de falhas que tornam sistemas vulneráveis — e de estudar como essas fraquezas se materializam em produtos reais (**CVEs**), chegou a hora de se apronfundar nos  identificadores públicos que registram vulnerabilidades específicas descobertas em produtos e serviços do mundo real. Nesta tarefa, você vai fazer a ponte entre a teoria e o seu projeto, **buscando no NVD vulnerabilidades reais que poderiam afetar o cenário que você escolheu**. 
+
+## 4. Plano DevSecOps
+
+Depois de mapear as ameaças e priorizar os riscos do seu cenário, chegou a hora de pensar em como a segurança entra no dia a dia do desenvolvimento e da operação. O **DevSecOps** integra segurança em todo o ciclo de vida: da análise do código-fonte no commit até o monitoramento em produção. Nesta tarefa, você escolhe as ferramentas que fariam sentido no seu cenário para cada etapa do pipeline — SAST, SCA, secrets scanning, DAST e scan de rede — e cruza os serviços do seu ambiente com CVEs reais, definindo prioridades de correção.
+
+## 5. Matriz de Riscos
+
+Depois de modelar as ameaças do seu cenário (DFD + STRIDE) e conhecer as vulnerabilidades reais que poderiam explorá-las, chegou a hora de transformar tudo isso em prioridade. Nem toda ameaça merece a mesma atenção: algumas são raras e causam pouco dano; outras são frequentes e podem derrubar o negócio. A **matriz de riscos** cruza **probabilidade** (chance de acontecer) com **impacto** (dano se acontecer) e transforma opinião em decisão de negócio. Nesta tarefa, você cria as suas escalas de probabilidade e impacto, monta a matriz 3x3 e preenche com as ameaças do seu cenário, propondo o tratamento de cada risco — mitigar, transferir, aceitar ou evitar.
