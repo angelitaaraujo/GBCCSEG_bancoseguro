@@ -7,6 +7,7 @@ _Aqui incluímos as tarefas atribuídas ao longo do semestre e contextualizamos 
 - [Busca de CVEs](busca_cves.md)
 - [Plano DevSecOps](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/plano_devecops.md)
 - [Matriz de Riscos](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/matrizderiscos_projeto.md)
+- [Política de Segurança](Tarefas/politica_seguranca.md)
 
 ## 1. O Cenário
 ### Introdução — Por que tudo começa pelo cenário?
