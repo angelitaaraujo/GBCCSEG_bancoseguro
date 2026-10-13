@@ -8,6 +8,7 @@ _Aqui incluímos as tarefas atribuídas ao longo do semestre e contextualizamos 
 - [Plano DevSecOps](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/plano_devecops.md)
 - [Matriz de Riscos](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/matrizderiscos_projeto.md)
 - [Política de Segurança](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/politica_seguranca.md)
+- [Mapa de Conformidade](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/mada_de_conformidade.md)
 
 ## 1. O Cenário
 ### Introdução — Por que tudo começa pelo cenário?
