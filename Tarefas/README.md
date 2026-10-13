@@ -10,6 +10,17 @@ _Aqui incluímos as tarefas atribuídas ao longo do semestre e contextualizamos 
 - [Política de Segurança](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/politica_seguranca.md)
 - [Mapa de Conformidade](https://github.com/angelitaaraujo/GBCCSEG_bancoseguro/blob/main/Tarefas/mada_de_conformidade.md)
 
+estrutura dos entregáveis
+├── 01-cenario-e-ativos.md
+├── 02-analise-de-vulnerabilidades.md
+├── 03-modelagem-de-ameacas.md
+├── 04-matriz-de-riscos.md
+├── 05-politica-de-seguranca.md
+├── 06-mapa-de-conformidade.md
+├── 07-plano-devsecops.md
+├── 08-plano-resposta-incidentes.md
+├── 09-relatorio-final.md
+
 ## 1. O Cenário
 ### Introdução — Por que tudo começa pelo cenário?
 
